@@ -1,0 +1,12 @@
+com\jpmc\trading\reportengine\exception\ReportingEngineException.class
+com\jpmc\trading\reportengine\util\ReportEngineUtil.class
+com\jpmc\trading\reportengine\parser\PDFParser.class
+com\jpmc\trading\reportengine\ReportEngineApplication.class
+com\jpmc\trading\reportengine\dto\TradeType.class
+com\jpmc\trading\reportengine\service\ReportEngineService.class
+com\jpmc\trading\reportengine\dto\Instruction.class
+com\jpmc\trading\reportengine\parser\CSVParser.class
+com\jpmc\trading\reportengine\dto\Currency.class
+com\jpmc\trading\reportengine\operations\InstructionPredicate.class
+com\jpmc\trading\reportengine\dto\Entity.class
+com\jpmc\trading\reportengine\parser\Parser.class
